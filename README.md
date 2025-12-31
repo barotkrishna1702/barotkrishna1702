@@ -1,16 +1,21 @@
 ## Hi there 👋
+# 💫 About Me:
+I am a B.Tech Computer Science student, currently pursuing my undergraduate studies at Vellore Institute of Technology (VIT), Bhopal.<br><br>I am a Core Member of the Google Developers Group (GDG), VIT Bhopal, where I actively contribute to technical and collaborative initiatives.<br><br>I have a strong academic and practical interest in Web Development and Blockchain technologies, with a focus on building scalable and impactful solutions.<br><br>I am enthusiastic about continuous learning, problem-solving, and staying updated with emerging technologies.<br><br>Beyond academics, I enjoy playing cricket (which sharpens teamwork and strategy) and chess (which enhances analytical thinking and decision-making).
 
-<!--
-**barotkrishna1702/barotkrishna1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishna_barott) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/krishna-barot-75580b375) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@barot_krishna1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnabarot@yahoo.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=barotkrishna1702&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=barotkrishna1702&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=barotkrishna1702&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=barotkrishna1702&icon=0&color=0)](https://visitcount.itsvg.in)
+
