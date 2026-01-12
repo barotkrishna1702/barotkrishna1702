@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am a B.Tech Computer Science student, currently pursuing my undergraduate studies at Vellore Institute of Technology (VIT), Bhopal.<br><br>I am a Core Member of the Google Developers Group (GDG), VIT Bhopal, where I actively contribute to technical and collaborative initiatives.<br><br>I have a strong academic and practical interest in Web Development and Blockchain technologies, with a focus on building scalable and impactful solutions.<br><br>I am enthusiastic about continuous learning, problem-solving, and staying updated with emerging technologies.<br><br>Beyond academics, I enjoy playing cricket (which sharpens teamwork and strategy) and chess (which enhances analytical thinking and decision-making).
+I am a B.Tech Computer Science student, currently pursuing my undergraduate studies at Vellore Institute of Technology (VIT), Bhopal.<br><br>I am a Core Member of the Google Developers Group (GDG), VIT Bhopal, where I actively contribute to technical and collaborative initiatives.<br><br>I have a strong academic and practical interest in Web Development and Blockchain technologies, with a focus on building scalable and impactful solutions.<br><br>I am enthusiastic about continuous learning, problem-solving, and staying updated with emerging technologies.<br><br>Beyond academics, I enjoy playing cricket and chess.
 
 
 ## 🌐 Socials:
